@@ -1,0 +1,148 @@
+Case 1
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+Alice       Cindy       Keith       Oliver      Sissy     
+Bobby       Danny       Lori        Peter       
+Buffy       Greg        Marsha      Ruben       
+Carol       Jan         Mike        Sam         
+Chris       Jody        Mr._French  Shirley     
+
+Case 2
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t
+
+Case 3
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+a                                                           
+abcdefghijklmnopqrstuvwxyz0123abcdefghijklmnopqrstuvwxyz0123
+
+Case 4
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+15.dat           lab10-main.C     lab16-05.dat   
+core             lab10-main.o     lab16-05.out   
+dad.cpp          lab10.C          lab16-06.dat   
+ewhite11         lab10.o          lab16-06.out   
+ewhite11.C       lab11            lab16-07.dat   
+ewhite11.o       lab11-1.dat      lab16-07.out   
+invBits.C        lab11-1.out      lab16-08.dat   
+invBits.o        lab11-2.dat      lab16-08.out   
+lab01.C          lab11-2.out      lab16-09.dat   
+lab02.C          lab11-3.dat      lab16-09.out   
+lab03.C          lab11-3.out      lab16-10.dat   
+lab03.out        lab11-4.dat      lab16-10.out   
+lab04.C          lab11-4.out      lab16-11.dat   
+lab04.dat        lab11-5.dat      lab16-11.out   
+lab04.out        lab11-5.out      lab16-12.dat   
+lab05            lab11-6.dat      lab16-12.out   
+lab05-1.dat      lab11-6.out      lab16-13.dat   
+lab05-2.dat      lab11-7.dat      lab16-13.out   
+lab05-3.dat      lab11-7.out      lab16-14.dat   
+lab05-4.dat      lab11-main.C     lab16-14.out   
+lab05.C          lab11-main.o     lab16-15.dat   
+lab05.out        lab11.C          lab16-15.out   
+lab07            lab11.o          lab16-16.dat   
+lab07-1.dat      lab12            lab16-16.out   
+lab07-1.out      lab12-1.dat      lab16-17.dat   
+lab07-2.dat      lab12-1.out      lab16-17.out   
+lab07-2.out      lab12-2.dat      lab16-19.dat   
+lab07.C          lab12-2.out      lab16-19.out   
+lab07.data       lab12-3.dat      lab16-20.dat   
+lab08            lab12-3.out      lab16-20.out   
+lab08-1.dat      lab12-4.dat      lab16.C        
+lab08-1.out      lab12-4.out      lab17          
+lab08-2.dat      lab12-5.dat      lab17-1.dat    
+lab08-2.out      lab12-5.out      lab17-1.out    
+lab08-3.dat      lab12-6.dat      lab17.C        
+lab08-3.out      lab12-6.out      lab18          
+lab08-4.dat      lab12-7.dat      lab18-1.dat    
+lab08-4.out      lab12-7.out      lab18-1.out    
+lab08.C          lab12.C          lab18-main.C   
+lab08.o          lab13            lab18-main.o   
+lab09            lab13-1.dat      lab18.C        
+lab09-01.dat     lab13-1.out      lab18.o        
+lab09-01.out     lab13-2.dat      lab19          
+lab09-02.dat     lab13-2.out      lab19-1.dat    
+lab09-02.out     lab13-3.dat      lab19-1.out    
+lab09-03.dat     lab13-3.out      lab19.C        
+lab09-03.out     lab13.C          lab1942.data   
+lab09-04.dat     lab14            lab1942.output 
+lab09-04.out     lab14-100.dat    lab20          
+lab09-05.dat     lab14-100.out    lab20-1.dat    
+lab09-05.out     lab14-1000.dat   lab20-1.out    
+lab09-06.dat     lab14-1000.out   lab20.C        
+lab09-06.out     lab14-10000.dat  lab21          
+lab09-07.dat     lab14-10000.out  lab21-01.dat   
+lab09-07.out     lab14-33.dat     lab21-01.out   
+lab09-08.dat     lab14-33.out     lab21-02.dat   
+lab09-08.out     lab14.C          lab21-02.out   
+lab09-09.dat     lab15            lab21-03.dat   
+lab09-09.out     lab15-1.dat      lab21-03.out   
+lab09-10.dat     lab15-1.out      lab21-04.dat   
+lab09-10.out     lab15-100.dat    lab21-04.out   
+lab09-11.dat     lab15-100.out    lab21-05.dat   
+lab09-11.out     lab15-13.dat     lab21-05.out   
+lab09-12.dat     lab15-13.out     lab21-06.dat   
+lab09-12.out     lab15-32.dat     lab21-06.out   
+lab09-13.dat     lab15-32.out     lab21-07.dat   
+lab09-13.out     lab15-6.dat      lab21-07.dat~  
+lab09-14.dat     lab15-6.out      lab21-07.out   
+lab09-14.out     lab15.C          lab21-08.dat   
+lab09-15.dat     lab16            lab21-08.out   
+lab09-15.out     lab16-01.dat     lab21.C        
+lab09-gen        lab16-01.out     pal.txt        
+lab09-gen.C      lab16-02.dat     sets.o         
+lab09.C          lab16-02.out     testBits       
+lab09.o          lab16-03.dat     testBits.C     
+lab10            lab16-03.out     testBits.o     
+lab10-1.dat      lab16-04.dat     testBits.out   
+lab10-1.out      lab16-04.out     
+
+Case 5
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+12345678901234567890123456789
+
+Case 6
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+01234567890123456789012345678  12345678901234567890123456789
+
+Case 7
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+01234567890123456789012345678  20123456789012345678901234567
+12345678901234567890123456789  
+
+Case 8
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+Alice       Cindy       Jody        Mike        Shirley   
+Bobby       Danny       Keith       Mr._French  Sissy     
+Carol       Greg        Lori        Peter       
+Chris       Jan         Marsha      Ruben       
+
+Case 9
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+a  c  e  g  i  k  m  o  q  s  u
+b  d  f  h  j  l  n  p  r  t  
+
+Case 10
+         111111111122222222223333333333444444444455555555556
+123456789012345678901234567890123456789012345678901234567890
+------------------------------------------------------------
+a  c  e  g  i  k  m  o  q  s  u
+b  d  f  h  j  l  n  p  r  t  v
+

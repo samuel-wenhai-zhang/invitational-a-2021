@@ -1,0 +1,10 @@
+Bill's phone number is 325-456-1234 and his email address is bill@gmail.com. Let's give him a call ASAP.
+8
+[a-z]+
+\D+
+.+m+.+
+.+l{2}.+
+\d+
+[^a-z]+
+[A-Z]+.
+.*'s

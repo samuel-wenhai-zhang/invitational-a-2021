@@ -1,0 +1,8 @@
+[a-z]+    phone number is and his email address is give him a call 
+\D+       Bill's phone number is and his email address is bill@gmail.com. Let's give him a call ASAP. 
+.+m+.+    number email bill@gmail.com. 
+.+l{2}.+  Bill's bill@gmail.com. 
+\d+       No matches.
+[^a-z]+   325-456-1234 ASAP. 
+[A-Z]+.   ASAP. 
+.*'s      Bill's Let's 
