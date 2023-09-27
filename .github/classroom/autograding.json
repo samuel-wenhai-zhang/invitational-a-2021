@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Ana",
+      "setup": "javac Ana.java",
+      "run": "java Ana",
+      "input": "",
+      "output": "1*1=1\r\n2*2=4\r\n3*3=9\r\n4*4=16\r\n5*5=25\r\n6*6=36\r\n7*7=49\r\n8*8=64\r\n9*9=81\r\n10*10=100\r\n11*11=121\r\n12*12=144\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Bryan",
+      "setup": "javac Bryan.java",
+      "run": "java Bryan",
+      "input": "",
+      "output": "Case #1: Phew, broke even!\r\nCase #2: Wow, Bryan saved $3\r\nCase #3: Oh no! Bryan had to borrow $3\r\nCase #4: Wow, Bryan saved $4\r\nCase #5: Oh no! Bryan had to borrow $4\r\nCase #6: Phew, broke even!\r\nCase #7: Wow, Bryan saved $900\r\nCase #8: Oh no! Bryan had to borrow $900\r\nCase #9: Phew, broke even!\r\nCase #10: Phew, broke even!\r\nCase #11: Oh no! Bryan had to borrow $33\r\nCase #12: Wow, Bryan saved $165\r\nCase #13: Oh no! Bryan had to borrow $16\r\nCase #14: Oh no! Bryan had to borrow $62\r\nCase #15: Wow, Bryan saved $14\r\nCase #16: Wow, Bryan saved $83\r\nCase #17: Wow, Bryan saved $33\r\nCase #18: Oh no! Bryan had to borrow $105\r\nCase #19: Wow, Bryan saved $66\r\nCase #20: Oh no! Bryan had to borrow $74\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Ethan",
+      "setup": "javac Ethan.java",
+      "run": "java Ethan",
+      "input": "",
+      "output": "Case 1 distance: 8.0000\r\nCase 2 distance: 3.8284\r\nCase 3 distance: 3.0000\r\nCase 4 distance: 12.0711\r\nCase 5 distance: 11.4787\r\nCase 6 distance: 8.8284\r\nCase 7 distance: 15.1356\r\nCase 8 distance: 3.8284\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Fatimah",
+      "setup": "javac Fatimah.java",
+      "run": "java Fatimah",
+      "input": "",
+      "output": "Case #1: 2\r\nCase #2: 2\r\nCase #3: 5\r\nCase #4: 1\r\nCase #5: 1\r\nCase #6: 1\r\nCase #7: 1\r\nCase #8: 4\r\nCase #9: 5\r\nCase #10: 12\r\nCase #11: 5\r\nCase #12: 2\r\nCase #13: 3\r\nCase #14: 6\r\nCase #15: 6\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Hai",
+      "setup": "javac Hai.java",
+      "run": "java Hai",
+      "input": "",
+      "output": "[a-z]+    phone number is and his email address is give him a call \r\n\\D+       Bill's phone number is and his email address is bill@gmail.com. Let's give him a call ASAP. \r\n.+m+.+    number email bill@gmail.com. \r\n.+l{2}.+  Bill's bill@gmail.com. \r\n\\d+       No matches.\r\n[^a-z]+   325-456-1234 ASAP. \r\n[A-Z]+.   ASAP. \r\n.*'s      Bill's Let's \r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Isaac",
+      "setup": "javac Isaac.java",
+      "run": "java Isaac",
+      "input": "",
+      "output": "Case 1\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\nAlice       Cindy       Keith       Oliver      Sissy     \r\nBobby       Danny       Lori        Peter       \r\nBuffy       Greg        Marsha      Ruben       \r\nCarol       Jan         Mike        Sam         \r\nChris       Jody        Mr._French  Shirley     \r\n\r\nCase 2\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\na  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t\r\n\r\nCase 3\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\na                                                           \r\nabcdefghijklmnopqrstuvwxyz0123abcdefghijklmnopqrstuvwxyz0123\r\n\r\nCase 4\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\n15.dat           lab10-main.C     lab16-05.dat   \r\ncore             lab10-main.o     lab16-05.out   \r\ndad.cpp          lab10.C          lab16-06.dat   \r\newhite11         lab10.o          lab16-06.out   \r\newhite11.C       lab11            lab16-07.dat   \r\newhite11.o       lab11-1.dat      lab16-07.out   \r\ninvBits.C        lab11-1.out      lab16-08.dat   \r\ninvBits.o        lab11-2.dat      lab16-08.out   \r\nlab01.C          lab11-2.out      lab16-09.dat   \r\nlab02.C          lab11-3.dat      lab16-09.out   \r\nlab03.C          lab11-3.out      lab16-10.dat   \r\nlab03.out        lab11-4.dat      lab16-10.out   \r\nlab04.C          lab11-4.out      lab16-11.dat   \r\nlab04.dat        lab11-5.dat      lab16-11.out   \r\nlab04.out        lab11-5.out      lab16-12.dat   \r\nlab05            lab11-6.dat      lab16-12.out   \r\nlab05-1.dat      lab11-6.out      lab16-13.dat   \r\nlab05-2.dat      lab11-7.dat      lab16-13.out   \r\nlab05-3.dat      lab11-7.out      lab16-14.dat   \r\nlab05-4.dat      lab11-main.C     lab16-14.out   \r\nlab05.C          lab11-main.o     lab16-15.dat   \r\nlab05.out        lab11.C          lab16-15.out   \r\nlab07            lab11.o          lab16-16.dat   \r\nlab07-1.dat      lab12            lab16-16.out   \r\nlab07-1.out      lab12-1.dat      lab16-17.dat   \r\nlab07-2.dat      lab12-1.out      lab16-17.out   \r\nlab07-2.out      lab12-2.dat      lab16-19.dat   \r\nlab07.C          lab12-2.out      lab16-19.out   \r\nlab07.data       lab12-3.dat      lab16-20.dat   \r\nlab08            lab12-3.out      lab16-20.out   \r\nlab08-1.dat      lab12-4.dat      lab16.C        \r\nlab08-1.out      lab12-4.out      lab17          \r\nlab08-2.dat      lab12-5.dat      lab17-1.dat    \r\nlab08-2.out      lab12-5.out      lab17-1.out    \r\nlab08-3.dat      lab12-6.dat      lab17.C        \r\nlab08-3.out      lab12-6.out      lab18          \r\nlab08-4.dat      lab12-7.dat      lab18-1.dat    \r\nlab08-4.out      lab12-7.out      lab18-1.out    \r\nlab08.C          lab12.C          lab18-main.C   \r\nlab08.o          lab13            lab18-main.o   \r\nlab09            lab13-1.dat      lab18.C        \r\nlab09-01.dat     lab13-1.out      lab18.o        \r\nlab09-01.out     lab13-2.dat      lab19          \r\nlab09-02.dat     lab13-2.out      lab19-1.dat    \r\nlab09-02.out     lab13-3.dat      lab19-1.out    \r\nlab09-03.dat     lab13-3.out      lab19.C        \r\nlab09-03.out     lab13.C          lab1942.data   \r\nlab09-04.dat     lab14            lab1942.output \r\nlab09-04.out     lab14-100.dat    lab20          \r\nlab09-05.dat     lab14-100.out    lab20-1.dat    \r\nlab09-05.out     lab14-1000.dat   lab20-1.out    \r\nlab09-06.dat     lab14-1000.out   lab20.C        \r\nlab09-06.out     lab14-10000.dat  lab21          \r\nlab09-07.dat     lab14-10000.out  lab21-01.dat   \r\nlab09-07.out     lab14-33.dat     lab21-01.out   \r\nlab09-08.dat     lab14-33.out     lab21-02.dat   \r\nlab09-08.out     lab14.C          lab21-02.out   \r\nlab09-09.dat     lab15            lab21-03.dat   \r\nlab09-09.out     lab15-1.dat      lab21-03.out   \r\nlab09-10.dat     lab15-1.out      lab21-04.dat   \r\nlab09-10.out     lab15-100.dat    lab21-04.out   \r\nlab09-11.dat     lab15-100.out    lab21-05.dat   \r\nlab09-11.out     lab15-13.dat     lab21-05.out   \r\nlab09-12.dat     lab15-13.out     lab21-06.dat   \r\nlab09-12.out     lab15-32.dat     lab21-06.out   \r\nlab09-13.dat     lab15-32.out     lab21-07.dat   \r\nlab09-13.out     lab15-6.dat      lab21-07.dat~  \r\nlab09-14.dat     lab15-6.out      lab21-07.out   \r\nlab09-14.out     lab15.C          lab21-08.dat   \r\nlab09-15.dat     lab16            lab21-08.out   \r\nlab09-15.out     lab16-01.dat     lab21.C        \r\nlab09-gen        lab16-01.out     pal.txt        \r\nlab09-gen.C      lab16-02.dat     sets.o         \r\nlab09.C          lab16-02.out     testBits       \r\nlab09.o          lab16-03.dat     testBits.C     \r\nlab10            lab16-03.out     testBits.o     \r\nlab10-1.dat      lab16-04.dat     testBits.out   \r\nlab10-1.out      lab16-04.out     \r\n\r\nCase 5\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\n12345678901234567890123456789\r\n\r\nCase 6\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\n01234567890123456789012345678  12345678901234567890123456789\r\n\r\nCase 7\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\n01234567890123456789012345678  20123456789012345678901234567\r\n12345678901234567890123456789  \r\n\r\nCase 8\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\nAlice       Cindy       Jody        Mike        Shirley   \r\nBobby       Danny       Keith       Mr._French  Sissy     \r\nCarol       Greg        Lori        Peter       \r\nChris       Jan         Marsha      Ruben       \r\n\r\nCase 9\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\na  c  e  g  i  k  m  o  q  s  u\r\nb  d  f  h  j  l  n  p  r  t  \r\n\r\nCase 10\r\n         111111111122222222223333333333444444444455555555556\r\n123456789012345678901234567890123456789012345678901234567890\r\n------------------------------------------------------------\r\na  c  e  g  i  k  m  o  q  s  u\r\nb  d  f  h  j  l  n  p  r  t  v\r\n\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Jamari",
+      "setup": "javac Jamari.java",
+      "run": "java Jamari",
+      "input": "",
+      "output": "The last person to get a donut was Yasmin.\r\n4 customers did not get a donut today.\r\nThe last person to get a donut was Andres.\r\n3 customers did not get a donut today.\r\nEveryone got a donut today.\r\nNo one got a donut today.\r\nThe last person to get a donut was Alberto.\r\n3 customers did not get a donut today.\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Kirill",
+      "setup": "javac Kirill.java",
+      "run": "java Kirill",
+      "input": "",
+      "output": "Case #1: 20\r\nCase #2: 9\r\nCase #3: 1\r\nCase #4: 53\r\nCase #5: 1234557\r\nCase #6: 1\r\nCase #7: 4999993\r\nCase #8: 2860102\r\nCase #9: 4716721\r\nCase #10: 2030923\r\nCase #11: 1086540\r\nCase #12: 3959573\r\nCase #13: 1010123\r\nCase #14: 3154380\r\nCase #15: 2595849\r\nCase #16: 4939829\r\nCase #17: 2125164\r\nCase #18: 1073771\r\nCase #19: 3430680\r\nCase #20: 1658130\r\nCase #21: 2967077\r\nCase #22: 4143017\r\nCase #23: 4507563\r\nCase #24: 2054681\r\nCase #25: 1096339\r\nCase #26: 1911895\r\nCase #27: 4789810\r\nCase #28: 4802829\r\nCase #29: 608302\r\nCase #30: 3733787\r\nCase #31: 2338361\r\nCase #32: 4674026\r\nCase #33: 4411612\r\nCase #34: 3354731\r\nCase #35: 1418008\r\nCase #36: 2336976\r\nCase #37: 2954949\r\nCase #38: 460309\r\nCase #39: 2381157\r\nCase #40: 2377285\r\nCase #41: 2442412\r\nCase #42: 3763722\r\nCase #43: 4368702\r\nCase #44: 3993481\r\nCase #45: 2001550\r\nCase #46: 2516135\r\nCase #47: 743427\r\nCase #48: 2882510\r\nCase #49: 2857850\r\nCase #50: 1367619\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Megan",
+      "setup": "javac Megan.java",
+      "run": "java Megan",
+      "input": "",
+      "output": "Word List 1 is sorted.\r\nWord List 2 is sorted.\r\nWord List 3 is not sorted.\r\nWord List 4 is sorted.\r\nWord List 5 is sorted.\r\nWord List 6 is sorted.\r\nWord List 7 is not sorted.\r\nWord List 8 is not sorted.\r\nWord List 9 is sorted.\r\nWord List 10 is sorted.\r\nWord List 11 is not sorted.\r\nWord List 12 is not sorted.\r\nWord List 13 is sorted.\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Oscar",
+      "setup": "javac Oscar.java",
+      "run": "java Oscar",
+      "input": "",
+      "output": "Zagut Nogark Domuzig \r\nTreerut \r\nTakig Kigruk Wazag Ezigurk Kabekurg \r\nBlarag \r\nOrob Glikuhr Ug Tresurub Brotikork Uxukuhr \r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rebecca",
+      "setup": "javac Rebecca.java",
+      "run": "java Rebecca",
+      "input": "",
+      "output": "Case #1: 28\r\nCase #2: 12\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "William",
+      "setup": "javac William.java",
+      "run": "java William",
+      "input": "",
+      "output": "Salahuddin Alexander\r\nMaude Almond\r\nWilfred Blaese\r\nCarolyn Blair\r\nSafwan Campos\r\nHajrah Dickerson\r\nJared Hopkins\r\nLucca Livingston\r\nBrandy Mackay\r\nAliyah Marin\r\nManal Mathews\r\nEmanuel Powers\r\nLeela Rhodes\r\nLea Richardson\r\nMiya Ridley\r\nShauna Rivers\r\nSadie Saunders\r\nAlaw Spencer\r\nInaaya Thorne\r\nShamas Woodley\r\n",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
